@@ -1,5 +1,6 @@
 h1{
     color: #8E26C0;
+    text-align: center;
     font-family: "JetBrains Mono";
     font-size: 64px;
     font-style: normal;
@@ -8,11 +9,9 @@ h1{
     text-transform: capitalize;
 }
 .firstFrame{
-    display: flex;
     width: 565px;
     padding: 24px 40px;
     align-items: center;
-    gap: 10px;
     background-color: #FFE8E8;
 }
 #firstParag{
@@ -26,14 +25,11 @@ h1{
 .secondFrame{
     width: 1023px;
     height: 144px;
-    flex-shrink: 0;
 }
 .firstInnerFrame{
-    display: flex;
     width: 1023px;
     padding: 24px 40px;
     align-items: center;
-    gap: 10px;
     border-top: 2px solid #00C76E;
     border-bottom: 2px solid #7F56D9;
     border-left: 4px solid#C11574;
@@ -49,11 +45,9 @@ h1{
     line-height: normal;
 }
 .thirdFrame{
-    display: flex;
     width: 1023px;
     padding: 24px 40px;
     align-items: center;
-    gap: 10px;
     background-color: #FFE8E8;
 }
 #thirdParag{
@@ -79,11 +73,9 @@ h1{
     text-underline-position: from-font;
 }
 .lasrFrame{
-    display: flex;
-    width: 1069px;
+   /* width: 989px; aq ewera width 1069px da 2*40 rom gamoakldeba es darcheva wesit*/
     padding: 24px 40px;
     align-items: center;
-    gap: 10px;
     border: 2px solid #3538CD;
 }
 #lastParag{
