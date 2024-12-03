@@ -9,6 +9,7 @@ h1{
     text-transform: capitalize;
 }
 #firstFrame{
+    margin: 15px;
     width: 565px;
     padding: 24px 40px;
     align-items: center;
@@ -23,16 +24,12 @@ h1{
     line-height: normal;
 }
 #secondFrame{
+    margin: 15px;
     width: 1023px;
     height: 144px;
-}
-#firstInnerFrame{
-    width: 1023px;
-    padding: 24px 40px;
-    align-items: center;
     border-top: 2px solid #00C76E;
     border-bottom: 2px solid #7F56D9;
-    border-left: 4px solid#C11574;
+    border-left: 4px solid #C11574;
     border-right: 6px solid #05F;
 }
 #secondParag{
@@ -45,9 +42,10 @@ h1{
     line-height: normal;
 }
 #thirdFrame{
-    width: 1023px;
+    margin: 15px;
+    width: 943px;
+    height: 85px;
     padding: 24px 40px;
-    align-items: center;
     background-color: #FFE8E8;
 }
 #thirdParag{
@@ -73,7 +71,10 @@ h1{
     text-underline-position: from-font;
 }
 #lasrFrame{
-   /* width: 989px; aq ewera width 1069px da 2*40 rom gamoakldeba es darcheva wesit*/
+    margin: 15px;
+    border: 2px #0064CE;
+    width: 989px;
+    height: 38px;
     padding: 24px 40px;
     align-items: center;
     border: 2px solid #3538CD;
