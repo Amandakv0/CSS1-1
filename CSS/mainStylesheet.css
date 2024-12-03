@@ -8,7 +8,7 @@ h1{
     line-height: normal;
     text-transform: capitalize;
 }
-.firstFrame{
+#firstFrame{
     width: 565px;
     padding: 24px 40px;
     align-items: center;
@@ -22,11 +22,11 @@ h1{
     font-weight: 400;
     line-height: normal;
 }
-.secondFrame{
+#secondFrame{
     width: 1023px;
     height: 144px;
 }
-.firstInnerFrame{
+#firstInnerFrame{
     width: 1023px;
     padding: 24px 40px;
     align-items: center;
@@ -44,7 +44,7 @@ h1{
     font-weight: 400;
     line-height: normal;
 }
-.thirdFrame{
+#thirdFrame{
     width: 1023px;
     padding: 24px 40px;
     align-items: center;
@@ -72,7 +72,7 @@ h1{
     text-underline-offset: auto;
     text-underline-position: from-font;
 }
-.lasrFrame{
+#lasrFrame{
    /* width: 989px; aq ewera width 1069px da 2*40 rom gamoakldeba es darcheva wesit*/
     padding: 24px 40px;
     align-items: center;
